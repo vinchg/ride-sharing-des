@@ -7,7 +7,6 @@ import java.util.List;
  * Map
  *
  * @author Vincent Cheong
- * Student ID: 004299384
  */
 
 public class Map {

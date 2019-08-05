@@ -4,7 +4,6 @@ package des;
  * Party
  *
  * @author Vincent Cheong
- * Student ID: 004299384
  */
 
 public class Party {

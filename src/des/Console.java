@@ -4,7 +4,6 @@ package des;
  * Console
  *
  * @author Vincent Cheong
- * Student ID: 004299384
  */
 
 import java.util.ArrayList;

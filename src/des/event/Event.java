@@ -7,7 +7,6 @@ import des.Vehicle;
  * Event
  *
  * @author Vincent Cheong
- * Student ID: 004299384
  */
 
 public class Event implements Comparable<Event> {

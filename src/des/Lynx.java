@@ -14,7 +14,6 @@ import java.util.Random;
  * Lynx
  *
  * @author Vincent Cheong
- * Student ID: 004299384
  */
 
 public class Lynx {
